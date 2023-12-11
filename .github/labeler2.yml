@@ -1,0 +1,5 @@
+area/package:
+- changed-files:
+  - any-glob-to-any-file:
+    - samcli/commands/package/*
+    - samcli/commands/package/**/*
