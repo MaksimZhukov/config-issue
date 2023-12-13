@@ -1,4 +1,4 @@
-name: Config issue
+name: Use previous config structure 
 
 on:
   pull_request_target:
