@@ -1,0 +1,3 @@
+area/package:
+- samcli/commands/package/*
+- samcli/commands/package/**/*
